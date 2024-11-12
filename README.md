@@ -14,3 +14,5 @@ The sample data provided with this code is result of PLV or Coherence analyis th
 2. Changing the loading path in STEP 1 for that folder
 3. In this code based on the channel configration a DMN is defined based on 17 channel locations So at the end you should have a connectivity matrix named DMN.mat in each folder.
 4. This DMN.mat from each folder is then loaded into STEP 2 which then performns cluster-based permutation using a feildtrip toolbox.
+
+![Testing](TEST.png)
