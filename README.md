@@ -2,7 +2,7 @@
 This repository is to do sensor based connectivity analysis which is done on data extracted from brainstorm (EEG matlab toolbox).
 
 # Requiremnets
-1. Matlab 2017 and above (Tested on Matlab 2021)
+1. Matlab 201 and above (Tested on Matlab 2021)
 2. Fieldtrip toolbox can be downloaded for free.
 
 # Brainstorm data
